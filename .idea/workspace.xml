@@ -4,17 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="827dbf1d-9958-4e1f-9b9e-a3eb6abf517f" name="Changes" comment="cca">
-      <change afterPath="$PROJECT_DIR$/Handling_Missing_Data/univariate_imputation_numerical_data.ipynb" afterDir="false" />
+    <list default="true" id="827dbf1d-9958-4e1f-9b9e-a3eb6abf517f" name="Changes" comment="univariate imputation numerical data">
+      <change afterPath="$PROJECT_DIR$/Handling_Missing_Data/handle_missing_categorical_data.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Binning-Binarization/binning.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Binning-Binarization/binning.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EDA/bivariate.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/EDA/bivariate.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EDA/univariate.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/EDA/univariate.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EDA/ydataprofiling.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/EDA/ydataprofiling.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Handling_Mixed_Variables/mixed_variables.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Handling_Mixed_Variables/mixed_variables.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ML-Pipelines/titanic_using_pipelines.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/ML-Pipelines/titanic_using_pipelines.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Transform/function_transformer.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Transform/function_transformer.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/tested.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/titanic.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/cars.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/cars.csv" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,16 +44,16 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "master",
-    "settings.editor.selected.configurable": "editor.preferences.folding"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.folding&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="E:\ML-Learning\Transform" />
@@ -178,7 +171,15 @@
       <option name="project" value="LOCAL" />
       <updated>1762170125194</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="univariate imputation numerical data">
+      <option name="closed" value="true" />
+      <created>1762173844910</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1762173844910</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -193,7 +194,8 @@
     <MESSAGE value="ml pipelines" />
     <MESSAGE value="function transformer" />
     <MESSAGE value="cca" />
-    <option name="LAST_COMMIT_MESSAGE" value="cca" />
+    <MESSAGE value="univariate imputation numerical data" />
+    <option name="LAST_COMMIT_MESSAGE" value="univariate imputation numerical data" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
