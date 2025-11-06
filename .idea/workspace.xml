@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="827dbf1d-9958-4e1f-9b9e-a3eb6abf517f" name="Changes" comment="pca">
+    <list default="true" id="827dbf1d-9958-4e1f-9b9e-a3eb6abf517f" name="Changes" comment="pca data">
       <change afterPath="$PROJECT_DIR$/Linear-Regression/simple_linear_regression.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/pca_test.csv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -234,7 +235,15 @@
       <option name="project" value="LOCAL" />
       <updated>1762353822338</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="pca data">
+      <option name="closed" value="true" />
+      <created>1762405487391</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1762405487391</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -257,7 +266,8 @@
     <MESSAGE value="5/11/25" />
     <MESSAGE value="iqr method for outlier detection and removal" />
     <MESSAGE value="pca" />
-    <option name="LAST_COMMIT_MESSAGE" value="pca" />
+    <MESSAGE value="pca data" />
+    <option name="LAST_COMMIT_MESSAGE" value="pca data" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
