@@ -5,9 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="827dbf1d-9958-4e1f-9b9e-a3eb6abf517f" name="Changes" comment="multiple linear regression">
+      <change afterPath="$PROJECT_DIR$/Gradient-Descent/gradient_descent.ipynb" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/data/pca_test.csv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Linear-Regression/multiple_linear_regression.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Linear-Regression/multiple_linear_regression.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -259,7 +259,15 @@
       <option name="project" value="LOCAL" />
       <updated>1762446497872</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="multiple linear regression">
+      <option name="closed" value="true" />
+      <created>1762447162902</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1762447162902</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
