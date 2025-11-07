@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="827dbf1d-9958-4e1f-9b9e-a3eb6abf517f" name="Changes" comment="gradient descent">
-      <change afterPath="$PROJECT_DIR$/Gradient-Descent/batch_gradient_descent.ipynb" afterDir="false" />
+    <list default="true" id="827dbf1d-9958-4e1f-9b9e-a3eb6abf517f" name="Changes" comment="batch gradient descent">
+      <change afterPath="$PROJECT_DIR$/Gradient-Descent/stochastic_gradient_descent.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -274,7 +274,15 @@
       <option name="project" value="LOCAL" />
       <updated>1762523255941</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="batch gradient descent">
+      <option name="closed" value="true" />
+      <created>1762527180791</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1762527180791</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -301,7 +309,8 @@
     <MESSAGE value="simple linear regression" />
     <MESSAGE value="multiple linear regression" />
     <MESSAGE value="gradient descent" />
-    <option name="LAST_COMMIT_MESSAGE" value="gradient descent" />
+    <MESSAGE value="batch gradient descent" />
+    <option name="LAST_COMMIT_MESSAGE" value="batch gradient descent" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
