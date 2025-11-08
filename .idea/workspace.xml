@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="827dbf1d-9958-4e1f-9b9e-a3eb6abf517f" name="Changes" comment="stochastic gradient descent">
-      <change afterPath="$PROJECT_DIR$/Gradient-Descent/mini_batch_gradient_descent.ipynb" afterDir="false" />
+    <list default="true" id="827dbf1d-9958-4e1f-9b9e-a3eb6abf517f" name="Changes" comment="mini batch gradient descent">
+      <change afterPath="$PROJECT_DIR$/Polynomial-Regression/polynomial_regression.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Gradient-Descent/stochastic_gradient_descent.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Gradient-Descent/stochastic_gradient_descent.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -291,11 +290,18 @@
       <option name="project" value="LOCAL" />
       <updated>1762535873921</updated>
     </task>
-    <option name="localTasksCounter" value="28" />
+    <task id="LOCAL-00028" summary="mini batch gradient descent">
+      <option name="closed" value="true" />
+      <created>1762567354936</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1762567354936</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="EDA using univariate analysis" />
     <MESSAGE value="EDA using bivariate analysis" />
     <MESSAGE value="pandas profiling" />
     <MESSAGE value="standardization in scaling" />
@@ -320,7 +326,8 @@
     <MESSAGE value="gradient descent" />
     <MESSAGE value="batch gradient descent" />
     <MESSAGE value="stochastic gradient descent" />
-    <option name="LAST_COMMIT_MESSAGE" value="stochastic gradient descent" />
+    <MESSAGE value="mini batch gradient descent" />
+    <option name="LAST_COMMIT_MESSAGE" value="mini batch gradient descent" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
