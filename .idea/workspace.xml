@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="827dbf1d-9958-4e1f-9b9e-a3eb6abf517f" name="Changes" comment="mini batch gradient descent">
-      <change afterPath="$PROJECT_DIR$/Polynomial-Regression/polynomial_regression.ipynb" afterDir="false" />
+    <list default="true" id="827dbf1d-9958-4e1f-9b9e-a3eb6abf517f" name="Changes" comment="polynomial regression">
+      <change afterPath="$PROJECT_DIR$/Ridge-Regression/lasso-regression.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ridge-Regression/ridge_regression.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -298,11 +299,18 @@
       <option name="project" value="LOCAL" />
       <updated>1762567354936</updated>
     </task>
-    <option name="localTasksCounter" value="29" />
+    <task id="LOCAL-00029" summary="polynomial regression">
+      <option name="closed" value="true" />
+      <created>1762577822369</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1762577822369</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="EDA using bivariate analysis" />
     <MESSAGE value="pandas profiling" />
     <MESSAGE value="standardization in scaling" />
     <MESSAGE value="normalization in scaling using minmaxscaling" />
@@ -327,7 +335,8 @@
     <MESSAGE value="batch gradient descent" />
     <MESSAGE value="stochastic gradient descent" />
     <MESSAGE value="mini batch gradient descent" />
-    <option name="LAST_COMMIT_MESSAGE" value="mini batch gradient descent" />
+    <MESSAGE value="polynomial regression" />
+    <option name="LAST_COMMIT_MESSAGE" value="polynomial regression" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
