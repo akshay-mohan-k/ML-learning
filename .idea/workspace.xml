@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="827dbf1d-9958-4e1f-9b9e-a3eb6abf517f" name="Changes" comment="logistic regression perceptron trick">
-      <change afterPath="$PROJECT_DIR$/Softmax-regression/softmax_regression.ipynb" afterDir="false" />
+    <list default="true" id="827dbf1d-9958-4e1f-9b9e-a3eb6abf517f" name="Changes" comment="softmax regression(multinomial)">
+      <change afterPath="$PROJECT_DIR$/Logistic-Regression/polynomial_logistic_regression.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -55,6 +55,7 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\ML-Learning\Logistic-Regression" />
       <recent name="E:\ML-Learning\Transform" />
       <recent name="E:\ML-Learning\EDA" />
     </key>
@@ -330,11 +331,18 @@
       <option name="project" value="LOCAL" />
       <updated>1762764821739</updated>
     </task>
-    <option name="localTasksCounter" value="33" />
+    <task id="LOCAL-00033" summary="softmax regression(multinomial)">
+      <option name="closed" value="true" />
+      <created>1762838007678</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1762838007678</updated>
+    </task>
+    <option name="localTasksCounter" value="34" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="ordinal and label encoding" />
     <MESSAGE value="onehotencoding" />
     <MESSAGE value="columntransformer" />
     <MESSAGE value="ml pipelines" />
@@ -359,7 +367,8 @@
     <MESSAGE value="ridge and lasso regression" />
     <MESSAGE value="elastic net regression" />
     <MESSAGE value="logistic regression perceptron trick" />
-    <option name="LAST_COMMIT_MESSAGE" value="logistic regression perceptron trick" />
+    <MESSAGE value="softmax regression(multinomial)" />
+    <option name="LAST_COMMIT_MESSAGE" value="softmax regression(multinomial)" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
