@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="827dbf1d-9958-4e1f-9b9e-a3eb6abf517f" name="Changes" comment="elastic net regression">
-      <change afterPath="$PROJECT_DIR$/Logistic-Regression/perceptron_trick.ipynb" afterDir="false" />
+    <list default="true" id="827dbf1d-9958-4e1f-9b9e-a3eb6abf517f" name="Changes" comment="logistic regression perceptron trick">
+      <change afterPath="$PROJECT_DIR$/Softmax-regression/softmax_regression.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -322,11 +322,18 @@
       <option name="project" value="LOCAL" />
       <updated>1762693450491</updated>
     </task>
-    <option name="localTasksCounter" value="32" />
+    <task id="LOCAL-00032" summary="logistic regression perceptron trick">
+      <option name="closed" value="true" />
+      <created>1762764821738</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1762764821739</updated>
+    </task>
+    <option name="localTasksCounter" value="33" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="normalization in scaling using minmaxscaling" />
     <MESSAGE value="ordinal and label encoding" />
     <MESSAGE value="onehotencoding" />
     <MESSAGE value="columntransformer" />
@@ -351,7 +358,8 @@
     <MESSAGE value="polynomial regression" />
     <MESSAGE value="ridge and lasso regression" />
     <MESSAGE value="elastic net regression" />
-    <option name="LAST_COMMIT_MESSAGE" value="elastic net regression" />
+    <MESSAGE value="logistic regression perceptron trick" />
+    <option name="LAST_COMMIT_MESSAGE" value="logistic regression perceptron trick" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
