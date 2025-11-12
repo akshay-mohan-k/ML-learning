@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="827dbf1d-9958-4e1f-9b9e-a3eb6abf517f" name="Changes" comment="voting classifier">
-      <change afterPath="$PROJECT_DIR$/Ensemble/Voting_Ensemble/voting_regressor.ipynb" afterDir="false" />
+    <list default="true" id="827dbf1d-9958-4e1f-9b9e-a3eb6abf517f" name="Changes" comment="voting regressor">
+      <change afterPath="$PROJECT_DIR$/Ensemble/Bagging_Ensemble/bagging.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ensemble/Bagging_Ensemble/bagging_classifier.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -355,7 +356,15 @@
       <option name="project" value="LOCAL" />
       <updated>1762937019847</updated>
     </task>
-    <option name="localTasksCounter" value="36" />
+    <task id="LOCAL-00036" summary="voting regressor">
+      <option name="closed" value="true" />
+      <created>1762944651090</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1762944651090</updated>
+    </task>
+    <option name="localTasksCounter" value="37" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -370,7 +379,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="ml pipelines" />
     <MESSAGE value="function transformer" />
     <MESSAGE value="cca" />
     <MESSAGE value="univariate imputation numerical data" />
@@ -395,7 +403,8 @@
     <MESSAGE value="softmax regression(multinomial)" />
     <MESSAGE value="polynomial logistic regression" />
     <MESSAGE value="voting classifier" />
-    <option name="LAST_COMMIT_MESSAGE" value="voting classifier" />
+    <MESSAGE value="voting regressor" />
+    <option name="LAST_COMMIT_MESSAGE" value="voting regressor" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -404,6 +413,11 @@
           <url>file://$PROJECT_DIR$/EDA/bivariate.ipynb</url>
           <line>46</line>
           <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="jupyter-line">
+          <url>file://$PROJECT_DIR$/Ensemble/Bagging_Ensemble/bagging.ipynb</url>
+          <line>17</line>
+          <option name="timeStamp" value="4" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
