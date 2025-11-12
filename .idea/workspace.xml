@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="827dbf1d-9958-4e1f-9b9e-a3eb6abf517f" name="Changes" comment="softmax regression(multinomial)">
-      <change afterPath="$PROJECT_DIR$/Logistic-Regression/polynomial_logistic_regression.ipynb" afterDir="false" />
+    <list default="true" id="827dbf1d-9958-4e1f-9b9e-a3eb6abf517f" name="Changes" comment="polynomial logistic regression">
+      <change afterPath="$PROJECT_DIR$/Ensemble/Voting_Ensemble/voting_classifier.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -339,11 +339,29 @@
       <option name="project" value="LOCAL" />
       <updated>1762838007678</updated>
     </task>
-    <option name="localTasksCounter" value="34" />
+    <task id="LOCAL-00034" summary="polynomial logistic regression">
+      <option name="closed" value="true" />
+      <created>1762840423182</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1762840423182</updated>
+    </task>
+    <option name="localTasksCounter" value="35" />
     <servers />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="onehotencoding" />
     <MESSAGE value="columntransformer" />
     <MESSAGE value="ml pipelines" />
     <MESSAGE value="function transformer" />
@@ -368,7 +386,8 @@
     <MESSAGE value="elastic net regression" />
     <MESSAGE value="logistic regression perceptron trick" />
     <MESSAGE value="softmax regression(multinomial)" />
-    <option name="LAST_COMMIT_MESSAGE" value="softmax regression(multinomial)" />
+    <MESSAGE value="polynomial logistic regression" />
+    <option name="LAST_COMMIT_MESSAGE" value="polynomial logistic regression" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
