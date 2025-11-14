@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="827dbf1d-9958-4e1f-9b9e-a3eb6abf517f" name="Changes" comment="adaboost">
-      <change afterPath="$PROJECT_DIR$/Clustering/k_means_clustering.ipynb" afterDir="false" />
+    <list default="true" id="827dbf1d-9958-4e1f-9b9e-a3eb6abf517f" name="Changes" comment="k means clustering">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -403,7 +402,15 @@
       <option name="project" value="LOCAL" />
       <updated>1763044631871</updated>
     </task>
-    <option name="localTasksCounter" value="42" />
+    <task id="LOCAL-00042" summary="k means clustering">
+      <option name="closed" value="true" />
+      <created>1763046603888</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1763046603888</updated>
+    </task>
+    <option name="localTasksCounter" value="43" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -418,7 +425,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="knn imputer" />
     <MESSAGE value="outlier detection using zscore method" />
     <MESSAGE value="5/11/25" />
     <MESSAGE value="iqr method for outlier detection and removal" />
@@ -443,7 +449,8 @@
     <MESSAGE value="random forest regressor" />
     <MESSAGE value="oob evaluation" />
     <MESSAGE value="adaboost" />
-    <option name="LAST_COMMIT_MESSAGE" value="adaboost" />
+    <MESSAGE value="k means clustering" />
+    <option name="LAST_COMMIT_MESSAGE" value="k means clustering" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
